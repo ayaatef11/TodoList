@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Applications\\App\\api\\todoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0176B9C-0990-4FAA-8F99-2F5ED4366FE4}|todoList\\todoList.csproj|c:\\applications\\app\\api\\todolist\\todolist\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0176B9C-0990-4FAA-8F99-2F5ED4366FE4}|todoList\\todoList.csproj|solutionrelative:todolist\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0176B9C-0990-4FAA-8F99-2F5ED4366FE4}|todoList\\todoList.csproj|c:\\applications\\app\\api\\todolist\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0176B9C-0990-4FAA-8F99-2F5ED4366FE4}|todoList\\todoList.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0176B9C-0990-4FAA-8F99-2F5ED4366FE4}|todoList\\todoList.csproj|c:\\applications\\app\\api\\todolist\\todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0176B9C-0990-4FAA-8F99-2F5ED4366FE4}|todoList\\todoList.csproj|solutionrelative:todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cf7341e6-9713-4309-bea6-cdb743e1804d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Applications\\App\\api\\todoList\\todoList\\appsettings.json",
+              "RelativeDocumentMoniker": "todoList\\appsettings.json",
+              "ToolTip": "C:\\Applications\\App\\api\\todoList\\todoList\\appsettings.json",
+              "RelativeToolTip": "todoList\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-25T16:43:03.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "todoController.cs",
+              "DocumentMoniker": "C:\\Applications\\App\\api\\todoList\\todoList\\Controllers\\todoController.cs",
+              "RelativeDocumentMoniker": "todoList\\Controllers\\todoController.cs",
+              "ToolTip": "C:\\Applications\\App\\api\\todoList\\todoList\\Controllers\\todoController.cs",
+              "RelativeToolTip": "todoList\\Controllers\\todoController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwDwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:04:33.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Applications\\App\\api\\todoList\\todoList\\Program.cs",
+              "RelativeDocumentMoniker": "todoList\\Program.cs",
+              "ToolTip": "C:\\Applications\\App\\api\\todoList\\todoList\\Program.cs",
+              "RelativeToolTip": "todoList\\Program.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwEQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T15:56:09.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
